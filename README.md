@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24370428/README.md)
 John Cena Wrestling Match Analytics
 
 Overview
