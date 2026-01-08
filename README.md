@@ -41,3 +41,16 @@ How to Use
 
 License
 This project is released under the MIT License and is free to use for educational and analytical purposes.
+
+
+## Version History
+
+**v1.1 – Data Corrections**
+- Minor data cleanup after analysis and dashboard development
+- Corrected formatting and naming inconsistencies
+- No structural changes to tables
+
+**v1.0 – Initial Release**
+- First public release of the dataset
+
+
