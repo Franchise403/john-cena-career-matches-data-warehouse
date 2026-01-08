@@ -1013,8 +1013,8 @@
 1315,24.02.2011,Exhibition,Win,No,No,No Championship,No Championship,No
 1314,23.02.2011,Exhibition,Win,No,No,No Championship,No Championship,No
 1313,21.02.2011,Exhibition,Win,No,No,No Championship,No Championship,No
-1312,21.02.2011,WWE World Tag Team Championship,Loss,No,Yes,No Championship,WWE World Tag Team Championship,WWE World Tag Team Championship
-1311,21.02.2011,WWE World Tag Team Championship,Win,Yes,No,No Championship,WWE World Tag Team Championship,WWE World Tag Team Championship
+1312,21.02.2011,WWE World Tag Team Championship,Loss,No,Yes,No Championship,WWE World Tag Team Championship,Yes
+1311,21.02.2011,WWE World Tag Team Championship,Win,Yes,No,No Championship,WWE World Tag Team Championship,Yes
 1310,20.02.2011,Contendership,Win,No,No,No Championship,No Championship,No
 1309,15.02.2011,Exhibition,Win,No,No,No Championship,No Championship,No
 1308,14.02.2011,Exhibition,Loss,No,No,No Championship,No Championship,No
@@ -1063,8 +1063,8 @@
 1265,03.11.2010,Exhibition,Win,No,No,No Championship,No Championship,No
 1264,30.10.2010,WWE Championship,Win,No,No,No Championship,No Championship,Yes
 1263,25.10.2010,Exhibition,Win,No,No,No Championship,No Championship,No
-1262,25.10.2010,WWE World Tag Team Championship,Loss,No,Yes,No Championship,WWE World Tag Team Championship,WWE World Tag Team Championship
-1261,24.10.2010,WWE World Tag Team Championship,Win,Yes,No,No Championship,WWE World Tag Team Championship,WWE World Tag Team Championship
+1262,25.10.2010,WWE World Tag Team Championship,Loss,No,Yes,No Championship,WWE World Tag Team Championship,Yes
+1261,24.10.2010,WWE World Tag Team Championship,Win,Yes,No,No Championship,WWE World Tag Team Championship,Yes
 1260,18.10.2010,Exhibition,Win,No,No,No Championship,No Championship,No
 1259,11.10.2010,Exhibition,Loss,No,No,No Championship,No Championship,No
 1258,04.10.2010,Exhibition,Loss,No,No,No Championship,No Championship,No
@@ -1408,11 +1408,11 @@
 920,18.08.2008,Exhibition,Win,No,No,No Championship,No Championship,No
 919,17.08.2008,Exhibition,Loss,No,No,No Championship,No Championship,No
 918,15.08.2008,Exhibition,Win,No,No,No Championship,No Championship,No
-917,11.08.2008,WWE World Tag Team Championship,Loss,No,Yes,No Championship,WWE World Tag Team Championship,WWE World Tag Team Championship
+917,11.08.2008,WWE World Tag Team Championship,Loss,No,Yes,No Championship,WWE World Tag Team Championship,Yes
 916,10.08.2008,Exhibition,Win,No,No,No Championship,WWE World Tag Team Championship,No
 915,09.08.2008,Exhibition,Win,No,No,No Championship,WWE World Tag Team Championship,No
 914,08.08.2008,Exhibition,Win,No,No,No Championship,WWE World Tag Team Championship,No
-913,04.08.2008,WWE World Tag Team Championship,Win,Yes,No,No Championship,WWE World Tag Team Championship,WWE World Tag Team Championship
+913,04.08.2008,WWE World Tag Team Championship,Win,Yes,No,No Championship,WWE World Tag Team Championship,Yes
 912,02.08.2008,Exhibition,Win,No,No,No Championship,No Championship,No
 911,01.08.2008,Exhibition,Win,No,No,No Championship,No Championship,No
 910,28.07.2008,Exhibition,Win,No,No,No Championship,No Championship,No
@@ -1548,22 +1548,22 @@
 780,16.04.2007,Exhibition,Win,No,No,WWE Championship,No Championship,No
 779,15.04.2007,WWE Championship,Win,No,No,WWE Championship,No Championship,Yes
 778,14.04.2007,WWE Championship,Win,No,No,WWE Championship,No Championship,Yes
-777,02.04.2007,WWE World Tag Team Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,WWE World Tag Team Championship
-776,02.04.2007,WWE World Tag Team Championship,Loss,No,Yes,WWE Championship,WWE World Tag Team Championship,WWE World Tag Team Championship
+777,02.04.2007,WWE World Tag Team Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,Yes
+776,02.04.2007,WWE World Tag Team Championship,Loss,No,Yes,WWE Championship,WWE World Tag Team Championship,Yes
 775,01.04.2007,WWE Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,Yes
 774,26.03.2007,Exhibition,Loss,No,No,WWE Championship,WWE World Tag Team Championship,No
 773,25.03.2007,WWE Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,Yes
 772,24.03.2007,WWE Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,Yes
 771,19.03.2007,Exhibition,Win,No,No,WWE Championship,WWE World Tag Team Championship,No
 770,18.03.2007,WWE Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,Yes
-769,12.03.2007,WWE World Tag Team Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,WWE World Tag Team Championship
+769,12.03.2007,WWE World Tag Team Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,Yes
 768,10.03.2007,WWE Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,Yes
 767,09.03.2007,WWE Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,Yes
 766,08.03.2007,WWE Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,Yes
 765,05.03.2007,Exhibition,Win,No,No,WWE Championship,WWE World Tag Team Championship,No
 764,04.03.2007,WWE Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,Yes
-763,26.02.2007,WWE World Tag Team Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,WWE World Tag Team Championship
-762,25.02.2007,WWE World Tag Team Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,WWE World Tag Team Championship
+763,26.02.2007,WWE World Tag Team Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,Yes
+762,25.02.2007,WWE World Tag Team Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,Yes
 761,24.02.2007,WWE Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,Yes
 760,19.02.2007,Exhibition,Win,No,No,WWE Championship,WWE World Tag Team Championship,No
 759,18.02.2007,Exhibition,Win,No,No,WWE Championship,WWE World Tag Team Championship,No
@@ -1575,7 +1575,7 @@
 753,03.02.2007,WWE Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,Yes
 752,02.02.2007,WWE Championship,Win,No,No,WWE Championship,WWE World Tag Team Championship,Yes
 751,30.01.2007,Exhibition,Win,No,No,WWE Championship,WWE World Tag Team Championship,No
-750,29.01.2007,WWE World Tag Team Championship,Win,Yes,No,WWE Championship,WWE World Tag Team Championship,WWE World Tag Team Championship
+750,29.01.2007,WWE World Tag Team Championship,Win,Yes,No,WWE Championship,WWE World Tag Team Championship,Yes
 749,28.01.2007,WWE Championship,Win,No,No,WWE Championship,No Championship,Yes
 748,22.01.2007,Exhibition,No Contest,No,No,WWE Championship,No Championship,No
 747,22.01.2007,Exhibition,Loss,No,No,WWE Championship,No Championship,No
@@ -2283,14 +2283,14 @@
 45,12.12.2001,Exhibition,Win,No,No,No Championship,No Championship,No
 44,11.12.2001,Exhibition,Win,No,No,No Championship,No Championship,No
 43,07.11.2001,Exhibition,Win,No,No,No Championship,No Championship,No
-42,29.10.2001,OVW Southern Tag Team Champion,Loss,No,Yes,No Championship,OVW Southern Tag Team Champion,OVW Southern Tag Team Champion
+42,29.10.2001,OVW Southern Tag Team Champion,Loss,No,Yes,No Championship,OVW Southern Tag Team Champion,Yes
 41,28.10.2001,Exhibition,Win,No,No,No Championship,OVW Southern Tag Team Champion,No
 40,27.10.2001,Exhibition,Loss,No,No,No Championship,OVW Southern Tag Team Champion,No
 39,23.10.2001,Exhibition,Loss,No,No,No Championship,OVW Southern Tag Team Champion,No
 38,26.09.2001,Exhibition,Win,No,No,No Championship,OVW Southern Tag Team Champion,No
 37,16.09.2001,Exhibition,Win,No,No,No Championship,OVW Southern Tag Team Champion,No
 36,22.08.2001,Exhibition,Loss,No,No,No Championship,OVW Southern Tag Team Champion,No
-35,15.08.2001,OVW Southern Tag Team Champion,Win,Yes,No,No Championship,OVW Southern Tag Team Champion,OVW Southern Tag Team Champion
+35,15.08.2001,OVW Southern Tag Team Champion,Win,Yes,No,No Championship,OVW Southern Tag Team Champion,Yes
 34,09.08.2001,Exhibition,Loss,No,No,No Championship,No Championship,No
 33,04.08.2001,Exhibition,Loss,No,No,No Championship,No Championship,No
 32,28.07.2001,Exhibition,Win,No,No,No Championship,No Championship,No
@@ -2315,8 +2315,8 @@
 13,13.09.2000,Exhibition,Win,No,No,No Championship,No Championship,No
 12,23.08.2000,Exhibition,Win,No,No,No Championship,No Championship,No
 11,23.07.2000,Exhibition,Win,No,No,No Championship,No Championship,No
-10,24.05.2000,UPW Heavyweight Championship,Loss,No,Yes,UPW Heavyweight Championship,No Championship,UPW Heavyweight Championship
-9,27.04.2000,UPW Heavyweight Championship,Win,Yes,No,UPW Heavyweight Championship,No Championship,UPW Heavyweight Championship
+10,24.05.2000,UPW Heavyweight Championship,Loss,No,Yes,UPW Heavyweight Championship,No Championship,Yes
+9,27.04.2000,UPW Heavyweight Championship,Win,Yes,No,UPW Heavyweight Championship,No Championship,Yes
 8,17.03.2000,Exhibition,Win,No,No,No Championship,No Championship,No
 7,19.02.2000,Exhibition,Win,No,No,No Championship,No Championship,No
 6,27.01.2000,Exhibition,Loss,No,No,No Championship,No Championship,No
